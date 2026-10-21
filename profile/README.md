@@ -20,6 +20,7 @@ Our main project, **[Cognia](https://github.com/MaxQian888/cognia-next)**, bring
 
 | Area | Explore the source |
 | --- | --- |
+| **Product website** — bilingual marketing site with independent development, CI and static deployment. | [cognia-website](https://github.com/cognia-labs/cognia-website) |
 | **Cognia workspace** — conversations, projects, knowledge, and visual workflows, with desktop, browser, and mobile entry points. | [Main repository](https://github.com/MaxQian888/cognia-next) |
 | **Agent tooling** — a standalone CLI and a typed RPC client for integrating Cognia's agent runtime. | [CLI](https://github.com/MaxQian888/cognia-next/tree/dev/cli) · [Agent SDK](https://github.com/MaxQian888/cognia-next/tree/dev/packages/agent) |
 | **Extensions** — plugins, shared UI primitives, and a browser companion. | [Plugin SDK](https://github.com/MaxQian888/cognia-next/tree/dev/packages/plugin-sdk) · [Browser extension](https://github.com/MaxQian888/cognia-next/tree/dev/browser-extension) |
@@ -35,7 +36,7 @@ Our main project, **[Cognia](https://github.com/MaxQian888/cognia-next)**, bring
 
 Start with the [Cognia README](https://github.com/MaxQian888/cognia-next#readme), browse the [issues](https://github.com/MaxQian888/cognia-next/issues), or read the [contribution guide](https://github.com/MaxQian888/cognia-next/blob/dev/CONTRIBUTING.md). For security reports, follow the [security policy](https://github.com/MaxQian888/cognia-next/blob/dev/SECURITY.md).
 
-Development currently lives in **[MaxQian888/cognia-next](https://github.com/MaxQian888/cognia-next)**. Cognia Labs is the organization home for the ecosystem; repository separation is being planned. Cognia is under active development — check each project's README for its status, setup, and license.
+The application, services and SDKs currently live in **[MaxQian888/cognia-next](https://github.com/MaxQian888/cognia-next)**. The website is maintained independently in **[cognia-labs/cognia-website](https://github.com/cognia-labs/cognia-website)**. Cognia Labs is the organization home for the ecosystem; further repository separation is being evaluated. Cognia is under active development — check each project's README for its status, setup, and license.
 
 <details>
 <summary><strong>中文介绍</strong></summary>
@@ -53,6 +54,6 @@ Development currently lives in **[MaxQian888/cognia-next](https://github.com/Max
 
 我们重视任务上下文的连续性，以及权限、操作和验证结果的可审阅性。欢迎从[项目说明](https://github.com/MaxQian888/cognia-next#readme)开始，提交可复现的 [issue](https://github.com/MaxQian888/cognia-next/issues)，或按照[贡献指南](https://github.com/MaxQian888/cognia-next/blob/dev/CONTRIBUTING.md)参与改进。
 
-当前开发仍位于 **MaxQian888/cognia-next**，组织内的仓库拆分正在规划中。项目处于持续开发阶段，各部分的状态、使用方式与许可证以对应项目说明为准。
+产品应用、服务和 SDK 目前仍位于 **MaxQian888/cognia-next**；官网已独立到 **[cognia-labs/cognia-website](https://github.com/cognia-labs/cognia-website)**，支持独立开发、构建与部署。其余仓库拆分继续按模块边界评估。项目处于持续开发阶段，各部分的状态、使用方式与许可证以对应项目说明为准。
 
 </details>
